@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "270868899347",
+    "firebase_url": "https://downloader-c35c6.firebaseio.com",
+    "project_id": "downloader-c35c6",
+    "storage_bucket": "downloader-c35c6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270868899347:android:3d4ca71e695d5aac",
+        "android_client_info": {
+          "package_name": "tm.alashow.musictanzania"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270868899347-rfkf56eep1c2j8asbm2g7hasmnsbh8qb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tm.alashow.musictanzania",
+            "certificate_hash": "03ED411DB1EA2B2E2C06CDB3894627C179333981"
+          }
+        },
+        {
+          "client_id": "270868899347-174vsuhcmjr54t49bu918h21fl8827nv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVZNsZ2mY8Cg9ws1MTn0OffCKDubJ8HMs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270868899347-174vsuhcmjr54t49bu918h21fl8827nv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

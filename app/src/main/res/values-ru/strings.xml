@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright 2015. Alashov Berkeli
+  ~
+  ~    Licensed under the Apache License, Version 2.0 (the "License");
+  ~    you may not use this file except in compliance with the License.
+  ~    You may obtain a copy of the License at
+  ~
+  ~       http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~    Unless required by applicable law or agreed to in writing, software
+  ~    distributed under the License is distributed on an "AS IS" BASIS,
+  ~    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~    See the License for the specific language governing permissions and
+  ~    limitations under the License.
+  -->
+
+<resources>
+
+    <!--General-->
+    <string name="app_name">BongoFlava-DownLoader</string>
+    <string name="exception">Tatizo Limetokea</string>
+    <string name="retry">Jaribu Tena</string>
+    <string name="error">Tatizo</string>
+    <string name="cancel">Ondoa</string>
+    <string name="loading">Inatafuta</string>
+    <string name="yes">Ndio</string>
+    <string name="no">Hapana</string>
+    <string name="network_error">Tatizo la Mtandao</string>
+    <string name="unknown_error">Tatizo Lisilojulikana</string>
+    <string name="search">Tafuta</string>
+    <string name="search_hint">Tafuta Wimbo au Msanii</string>
+    <string name="web_version">Web site</string>
+    <string name="powered_by"><![CDATA[Kwa ♥ na <a href=\'https://alashov.com\'>Rocky Nassa</a>]]></string>
+    <string name="share">Tuma</string>
+
+    <!--MainActivity-->
+    <string name="share_text">Pakua huu wimbo! \n</string>
+    <string name="error_token">Tatizo limetokea! Jaribu Tena</string>
+    <string name="error_not_found">Hakuna Kilichopatikana</string>
+    <string name="error_captcha">Tatizo Captcha</string>
+
+    <!--AudioActions-->
+    <string name="audio_download">Pakua</string>
+    <string name="audio_play">Sikiliza</string>
+    <string name="audio_share">Tuma</string>
+    <string name="audio_copy">Kopi linki</string>
+    <string name="audio_copied">Link Imekopiwa</string>
+    <string name="audio_bitrate">Выбрать битрейт и скачать</string>
+    <string name="audio_player_close">Funga</string>
+
+    <!--Captcha-->
+    <string name="captcha_submit">Tuma</string>
+    <string name="captcha_reload">Rudia</string>
+    <string name="captcha_hint">Andika Maneno</string>
+    <string name="captcha_empty">Captcha haiwezi kuwa wazi</string>
+
+    <!--Preferences-->
+    <string name="preferences_title">Mpangilio</string>
+    <string name="preferences_language">Lugha</string>
+    <string name="preference_search">Tafuta</string>
+    <string name="preference_search_sort">Pangilia</string>
+    <string name="preference_search_count">Idadi</string>
+    <string name="preference_search_count_description">Jumla ya nyimbo zitakazo onyeshwa</string>
+    <string name="preference_search_performer_only">По названию исполнителя</string>
+    <string name="preference_search_performer_only_description">Tafuta kwa jina la msani pekee</string>
+
+    <string name="preferences_general">Mipangilio</string>
+    <string name="preferences_popular_start">Nyimbo  Maarufu</string>
+    <string name="preferences_popular_start_description">onyesha nyimbo maarufu mwanzoni</string>
+
+    <string-array name="searchSort">
+        <item>Zianze Zilizowekwa Zamani</item>
+        <item>Zianze Zilizowekwa Karibuni</item>
+
+    </string-array>
+
+    <string-array name="searchCount">
+        <item>Nyimbo 30</item>
+        <item>Nyimbo 50</item>
+        <item>Nyimbo 100</item>
+        <item>Nyimbo 20</item>
+        <item>Nyimbo 300</item>
+    </string-array>
+    <string name="back_button_label">Rudi</string>
+    <string name="next_button_label">Endelea</string>
+    <string name="skip_button_label">Ruka</string>
+</resources>
